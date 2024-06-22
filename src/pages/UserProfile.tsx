@@ -24,7 +24,6 @@ export function UserProfile() {
         <h1>User profile</h1>
         <button type="button" onClick={handleLogOut}>Logout</button>
       </div>
-
       <table>
         <thead>
           <tr>
